@@ -42,6 +42,7 @@ nav ul li {
 #nav {
   color: rgba(100, 100, 190, 0.7);
 }
+
 #nav:hover {
   text-decoration: 2px underline wavy;
 }
@@ -76,10 +77,10 @@ nav ul li {
 .page_top p {
   display: inline-block;
   font-family: "Poppins", sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
   padding: 0em;
   align-self: center;
-  width: 45%;
+  width: 40%;
 }
 
 #typewriter {
@@ -116,7 +117,7 @@ nav ul li {
 .mid_page p {
   display: inline-block;
   font-family: "Poppins", sans-serif;
-  font-size: 3rem;
+  font-size: 2.5rem;
   width: 35%;
   padding: 0em;
   align-self: center;
